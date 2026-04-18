@@ -1,0 +1,7 @@
+streamlit
+moviepy
+librosa
+opencv-python
+mediapipe
+openai-whisper
+numpy
